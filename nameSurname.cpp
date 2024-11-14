@@ -8,6 +8,7 @@ int main()
       //prompt user to input their firstname
     cout << "Firstname: "<< name << endl;
     cin >> name;
+     //prompt user to input their surname
     cout << "Lastname: "<< surname;
     cin >> surname;
 
